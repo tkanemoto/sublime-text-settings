@@ -1,0 +1,10 @@
+[
+	{
+		"class": "puck_control",
+		"content_margin": [12, 14],
+		"layer0.tint": [40, 170, 250],
+		"layer0.opacity": 1.0,
+		"layer1.opacity": 0.0,
+		"layer0.inner_margin": 2
+	}
+]
